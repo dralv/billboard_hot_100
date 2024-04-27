@@ -53,12 +53,6 @@ main()
 
 
 
-#print(music_ids_list)
-
-#for idx, track in enumerate(results['tracks']['items']):
-#    print(idx, track['name'])
-#print(music_list)
-#https://developer.spotify.com/dashboard/a71f96def6d24ea9b5d5496f0b02377c
 
 
 
